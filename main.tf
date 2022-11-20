@@ -1,3 +1,3 @@
-Hello.data "" "name" {
+provider "main.tf" {
   
 }
